@@ -1,0 +1,10 @@
+# This is the title of my second post
+
+Here's the table of contents:
+
+1. TOC
+{:toc}
+
+## progress update
+
+progress on the second question has been made in that a model has been created that can detect 10 different animals with an average of 99% accuracy per animal
